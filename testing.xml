@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+    <test name="SearchEnigines">
+        <classes>
+            <class name="com.HelloWorld.TestExample.testEmailGenerator" />
+            <class name="com.mkyong.testng.examples.suite.TestOrder" />
+        </classes>
+    </test>
+
+</suite>
